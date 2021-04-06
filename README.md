@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a new Android project in 2021](https://medium.com/@mrnj92/create-a-new-android-project-in-2021-bcf01ce4522b?source=rss-4ced6b06c2b7------2)
+- [Goodbye Gson, Hello Moshi](https://proandroiddev.com/goodbye-gson-hello-moshi-4e591116231e?source=rss-4ced6b06c2b7------2)
+- [How to merge RecyclerView.Adapter(s) in Android?](https://medium.com/@mrnj92/how-to-merge-recyclerview-adapter-s-in-android-2229184d2db1?source=rss-4ced6b06c2b7------2)
+- [BackPress handling in Android Fragments, The old and the new!](https://proandroiddev.com/backpress-handling-in-android-fragments-the-old-and-the-new-method-c41d775fb776?source=rss-4ced6b06c2b7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
