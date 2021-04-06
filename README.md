@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydblv&label=Profile%20views&color=0e75b6&style=flat" alt="lloydblv" /> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@mrnj92](https://medium.com/@mrnj92)
-
+- 💬 Ask me about **Android, Kotlin, Clean code and SOLID!**
 - 📫 How to reach me **mrnj92@gmail.com**
 
 ### Blogs posts
