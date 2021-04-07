@@ -9,7 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to write less code to parse JSON responses in Android](https://mrnj92.medium.com/how-to-write-less-code-to-parse-json-responses-in-android-294770f65159?source=rss-4ced6b06c2b7------2)
+- [How to write less code to parse JSON responses in Android](https://proandroiddev.com/how-to-write-less-code-to-parse-json-responses-in-android-294770f65159?source=rss-4ced6b06c2b7------2)
 - [Create a new Android project in 2021](https://mrnj92.medium.com/create-a-new-android-project-in-2021-bcf01ce4522b?source=rss-4ced6b06c2b7------2)
 - [Goodbye Gson, Hello Moshi](https://proandroiddev.com/goodbye-gson-hello-moshi-4e591116231e?source=rss-4ced6b06c2b7------2)
 - [How to merge RecyclerView.Adapter(s) in Android?](https://mrnj92.medium.com/how-to-merge-recyclerview-adapter-s-in-android-2229184d2db1?source=rss-4ced6b06c2b7------2)
